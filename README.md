@@ -10,5 +10,5 @@ PayRequest inc. is a fintech startup founded in 2019 which is a payment platform
 | :--- | :--- |
 | Payment links | Create in 3 simple steps a payment link. |
 | Integrations | Connect your Mollie, Stripe or Coinbase account. |
-| Reminders | Send automatically reminders via e-mail or sms.  |
+| Reminders | Send automatically reminders via e-mail or sms. |
 

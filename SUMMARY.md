@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Free Plan vs. Premium](free-plan-vs.-premium.md)
 
 ## PayRequest
 
