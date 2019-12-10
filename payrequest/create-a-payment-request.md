@@ -1,23 +1,12 @@
 # Create a payment request
 
-## Getting Super Powers
+## Just a little longer
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+We are working on a REST(full) api that will make it even more convenient to make request.
+Still want to use the web version? No problem!
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ When we publish the API, we will notify our current users. So make sure to sign up!
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
 
 
