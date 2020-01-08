@@ -29,6 +29,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
   - South African Rand (ZAR)
 * Added dutch language (want your own language? Add it here: https://payrequest.kampsite.co/)
 * Friendly 500 and 400 errors
+* GDPR compliance additions
 
 ## 1.0.1 - 2019-12-09
 
