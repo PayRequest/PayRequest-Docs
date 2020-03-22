@@ -18,7 +18,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 ### Added
 
 * Re-usable requests
-- You can now create re-usable payment links
+ - You can now create re-usable payment links
 * Open request button upon creation
 
 ## 1.1.0 - 2020-01-08
