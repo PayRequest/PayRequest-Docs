@@ -4,6 +4,23 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 # Changelog
 
+## 1.2.0 - 2020-03-22
+
+### Fixed
+
+* Minor Bugfixes regarding status update
+* Small performance enhancements
+
+### Changed
+
+* No more random backgrounds, we choose the best for you
+
+### Added
+
+* Re-usable requests
+- You can now create re-usable payment links
+* Open request button upon creation
+
 ## 1.1.0 - 2020-01-08
 
 ### Fixed
