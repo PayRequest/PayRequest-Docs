@@ -18,7 +18,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 ### Added
 
 * Re-usable requests
- - You can now create re-usable payment links
+  * You can now create re-usable payment links
 * Open request button upon creation
 
 ## 1.1.0 - 2020-01-08
@@ -32,19 +32,19 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 * Minor changes to payrequest link design
 * TOS & privacy minor changes
-* Request view (dashboard) added reminder information
+* Request view \(dashboard\) added reminder information
 
 ### Added
 
 * Add multi currency setup
-  - Euro (EUR)
-  - Japanese Yen (JPY)
-  - British Pound (GBP)
-  - Swiss Franc (CHF)
-  - Canadian Dollar (CAD)
-  - Australian/New Zealand Dollar.
-  - South African Rand (ZAR)
-* Added dutch language (want your own language? Add it here: https://payrequest.kampsite.co/)
+  * Euro \(EUR\)
+  * Japanese Yen \(JPY\)
+  * British Pound \(GBP\)
+  * Swiss Franc \(CHF\)
+  * Canadian Dollar \(CAD\)
+  * Australian/New Zealand Dollar.
+  * South African Rand \(ZAR\)
+* Added dutch language \(want your own language? Add it here: [https://payrequest.kampsite.co/](https://payrequest.kampsite.co/)\)
 * Friendly 500 and 400 errors
 * GDPR compliance additions
 
@@ -61,7 +61,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 ### Added
 
-*  Extra checks on request create. And redirect users to integrations page when there is no integration setup.
+* Extra checks on request create. And redirect users to integrations page when there is no integration setup.
 
 ## 1.0.0 - 2019-12-08
 

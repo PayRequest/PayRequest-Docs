@@ -1,4 +1,4 @@
-# Welcome to the PayRequest Documentation
+# Introduction
 
 ## About PayRequest
 

@@ -7,4 +7,5 @@
 
 * [Create a payment request](payrequest/create-a-payment-request.md)
 * [Changelog](payrequest/changelog.md)
+* [Paid via PayRequest](paid-via-payrequest.md)
 
