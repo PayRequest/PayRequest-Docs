@@ -4,6 +4,23 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 # Changelog
 
+## 1.3.0 - 2020-04-02
+
+### Fixed
+
+* Small bug fixes
+* Required fields for new requests
+
+### Changed
+
+* Cleaner email templates
+
+### Added
+
+* You can now upload your own background
+* Design improvements payment links
+* Extensive new request page
+
 ## 1.2.0 - 2020-03-22
 
 ### Fixed
