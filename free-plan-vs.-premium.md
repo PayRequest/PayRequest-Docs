@@ -1,20 +1,28 @@
-# Free Plan vs. Premium
+---
+description: Simple clear pricing
+---
 
-On this page you can compare our plans.
+# PayRequest Pricing
+
+On We do not have any monthly fees, you only pay for succesfull payments.
 
 {% hint style="info" %}
- PayRequest is free to use, you only pay per succesfull transaction, but we also offering extra features for business that needs more tools.
+ PayRequest is free to use, you only pay per succesfull transaction.
 {% endhint %}
 
 We keep things simple, no hidden costs, long contracts, or difficult plans:
 
-| Free Plan | Premium |
+| Payment Provider fee | PayRequest application fee |
 | :--- | :--- |
-| FREE | € 7,99 per month |
-| 2% per transaction fee | 0% per transaction fee |
-| Unlimited integrations | Unlimited integrations |
-| Send E-mail & SMS reminders | Send E-mail & SMS reminders |
-| Payment Links logging | Payment Links logging |
-| link.payrequest.io | CNAME:  link.yourcompany.com |
-| Powered by PayRequest | WhiteLabel Features |
+| Depending on what payment method | 2% per succesfull transaction |
+
+#### Payment Provider Fee
+
+This is the fee and costs your are pay directly to your payment provider \(PSP\) 
+
+#### PayRequest application Fee
+
+This is the fee PayRequest collect to keep our platform running and to cover our costs.
+
+
 

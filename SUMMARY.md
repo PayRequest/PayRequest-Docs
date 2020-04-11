@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Free Plan vs. Premium](free-plan-vs.-premium.md)
+* [Welcome to PayRequest Docs](README.md)
+* [PayRequest Pricing](free-plan-vs.-premium.md)
 
-## PayRequest
+## Getting Started 🚀
 
-* [Create a payment request](payrequest/create-a-payment-request.md)
-* [Changelog](payrequest/changelog.md)
-* [Paid via PayRequest](paid-via-payrequest.md)
+* [Create a payment request](getting-started/create-a-payment-request.md)
+* [Changelog](getting-started/changelog.md)
+* [Paid via PayRequest](getting-started/paid-via-payrequest.md)
 

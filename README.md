@@ -1,4 +1,8 @@
-# Introduction
+---
+description: Here you find tips and information about our dashboard
+---
+
+# Welcome to PayRequest Docs
 
 ## About PayRequest
 
