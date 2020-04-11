@@ -1,10 +1,14 @@
-# Create a payment request
+---
+description: "Start making money! \U0001F4B8"
+---
 
-## Just a little longer
+# Create your first payment request
 
-We are working on a REST\(full\) api that will make it even more convenient to make request. Still want to use the web version? No problem!
+## Create a new payment request
 
-{% hint style="info" %}
-When we publish the API, we will notify our current users. So make sure to sign up!
-{% endhint %}
+If you want to create a new payment request just go to [https://dashboard.payrequest.io/requests/new](https://dashboard.payrequest.io/requests/new)
+
+### 1. Choose what payment you want
+
+![Choose what kind of payment request you want](../.gitbook/assets/schermafbeelding-2020-04-11-om-11.29.09.png)
 
