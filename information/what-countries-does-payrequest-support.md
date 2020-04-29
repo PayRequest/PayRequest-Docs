@@ -7,11 +7,11 @@ description: >-
 
 # What countries does PayRequest Support?
 
-## Countries support by Mollie
+## Countries supported by Mollie
 
 * All countries in Europe
 
-## Countries support by Stripe
+## Countries supported by Stripe
 
 * [ Australia](https://dashboard.stripe.com/register?country=AU)
 * [ Austria](https://dashboard.stripe.com/register?country=AT)
