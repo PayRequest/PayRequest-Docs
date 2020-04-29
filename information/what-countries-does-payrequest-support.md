@@ -47,7 +47,9 @@ description: >-
 * [ Sweden](https://dashboard.stripe.com/register?country=SE)
 * [ Switzerland](https://dashboard.stripe.com/register?country=CH)
 * [ United Kingdom](https://dashboard.stripe.com/register?country=GB)
-* [ Unite](https://dashboard.stripe.com/register?country=US)
+* [ United States of America](https://dashboard.stripe.com/register?country=US)
+
+Stripe will support Brasil and more countries later this year.
 
 
 
