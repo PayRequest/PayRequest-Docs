@@ -14,4 +14,5 @@
 * [Changelog](information/changelog.md)
 * [PayRequest Pricing](information/free-plan-vs.-premium.md)
 * [How can i contact PayRequest?](information/how-can-i-contact-payrequest.md)
+* [What countries does PayRequest Support?](what-countries-does-payrequest-support.md)
 
