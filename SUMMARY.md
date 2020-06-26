@@ -10,7 +10,6 @@
 
 ## ℹ️Information
 
-* [Paid via PayRequest](information/paid-via-payrequest.md)
 * [Changelog](information/changelog.md)
 * [PayRequest Pricing](information/free-plan-vs.-premium.md)
 * [What countries does PayRequest Support?](information/what-countries-does-payrequest-support.md)
