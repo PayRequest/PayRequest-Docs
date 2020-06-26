@@ -8,6 +8,10 @@
 * [Connect your Payment Provider](getting-started/connect-your-payment-provider.md)
 * [Create your first payment request](getting-started/create-a-payment-request.md)
 
+## API & Requests
+
+* [HTTP Requests](api/http.md)
+
 ## ℹ️Information
 
 * [Changelog](information/changelog.md)
