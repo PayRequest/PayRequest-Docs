@@ -4,6 +4,8 @@ description: "Simple HTTP api"
 
 # Simple yet effective HTTP api (Work in Progress!)
 
+### This API is not live yet! Want to stay up-to-date? Let us know info[at]payrequest.io
+
 ## Gettings started
 
 Because of certain security measurements we will always expect a token. This token can be found in your dashboard settings.
