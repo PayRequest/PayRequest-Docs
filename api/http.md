@@ -51,10 +51,37 @@ The response will be as shown:
 
 ### Return response
 
-After the payment has been succesfull or failed the url will return the user to the response url when given.
-The return will be `GET 200` for a succesfull payment and `GET 500` for an unsucesfull payment.
-For extra check we also attach a `return_id` which will consist of the `token` + `id` encrpyted with `argon2`.
+After the payment has been successfull or failed the url will return the user to the response url when given.
+The return will be `GET 200` for a succesfull payment and `GET 500` for an unsuccessfull payment.
+For extra check we also attach a `return_id` which will consist of the `token` + `id` encrypted with `MD5`.
 
 ## Retrieve payment
 
-***COMING SOON***
+After the customer is returned to your given url you may want to check if the payment was paid.
+This can be done with the following POST call.
+```php
+POST /api/get/
+```
+
+| Name | Type | Description |
+| --- | --- | --- |
+| `token` | `required` | The token you can find in your dashboard settings |
+| `id` | `required` | An unique id which you can use to verify the payment |
+
+### Example
+
+```json
+{
+  "token": "spJA4nChfSPDRSkD-Znb6iw-2WGkDR37GyxZ-GZomUo",
+  "id": "PR-000012457"
+}
+```
+
+### Response
+
+The status that will be returned can be `paid`, `failed` or `pending`.
+```json
+{
+  "status": "paid"
+}
+```
