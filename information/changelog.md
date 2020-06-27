@@ -14,6 +14,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 ### Changed
 
 * Redesigned of payment code
+* Changed minimum amount from 1.00 to 0.50
 
 ### Added
 
