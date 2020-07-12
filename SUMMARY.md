@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to PayRequest Docs](README.md)
-* [Create Dynamic Payment Links](create-dynamic-payment-links.md)
 
 ## Getting Started 🚀
 
@@ -17,6 +16,7 @@
 
 * [Changelog](information/changelog.md)
 * [PayRequest Pricing](information/free-plan-vs.-premium.md)
+* [Create Dynamic Payment Links](information/create-dynamic-payment-links.md)
 * [What countries does PayRequest Support?](information/what-countries-does-payrequest-support.md)
 * [How can i contact PayRequest?](information/how-can-i-contact-payrequest.md)
 

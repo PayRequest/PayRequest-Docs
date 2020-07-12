@@ -4,7 +4,7 @@ description: Create dynamic payment links with our own personal payment page
 
 # Create Dynamic Payment Links
 
-![Dynamic Payment Links Example](.gitbook/assets/1bc052d0-8494-4055-8c79-9ee65c25f08e.jpeg)
+![Dynamic Payment Links Example](../.gitbook/assets/1bc052d0-8494-4055-8c79-9ee65c25f08e.jpeg)
 
 ## What are Dynamic Payment Links?
 
