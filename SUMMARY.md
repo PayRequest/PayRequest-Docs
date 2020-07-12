@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to PayRequest Docs](README.md)
+* [Create Dynamic Payment Links](create-dynamic-payment-links.md)
 
 ## Getting Started 🚀
 

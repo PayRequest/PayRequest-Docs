@@ -19,7 +19,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 ### Added
 
 * Claim your personal link
-* Let users pay with a simple url with amount: ex. https://payrequest.me/hostingwalk/10.25
+* Let users pay with a simple url with amount: ex. [https://payrequest.me/hostingwalk/10.25](https://payrequest.me/hostingwalk/10.25)
 * Send mails through your own domain. Easy setup and a more trusted experience for your customer
 * With a special token it is possible to generate payment through HTTP requests. 
 
