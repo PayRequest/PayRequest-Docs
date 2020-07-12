@@ -6,9 +6,7 @@ description: Create dynamic payment links with our own personal payment page
 
 ## What are Dynamic Payment Links?
 
-![Dynamic Payment Links Example](../.gitbook/assets/1bc052d0-8494-4055-8c79-9ee65c25f08e.jpeg)
-
-In our Dashboard you can create payment links, but with your own personal payment page, you can create payment requests without create, just via a custom URL.
+In our Dashboard, you can create payment links, but with your own personal payment page, you can create payment requests without creating, just via a custom URL.
 
 Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
 
