@@ -22,7 +22,9 @@ POST /api/create/
 | :--- | :--- | :--- |
 | `token` | `required` | The token you can find in your dashboard settings |
 | `id` | `required` | An unique id which you can use to verify the payment |
+| `title` | `required` | Payment title that the customer sees |
 | `amount` | `required` | The amount you want to charge the customer |
+| `description` | `optional` | Payment description |
 | `type` | `optional` | When not given, the url will return a payment link. When the value is `direct` the user can \(and should\) be redirected to the specific url. If omitted or `link` is given the url will respond with a generated payment link |
 | `response` | `optional` | When not given, the payment will just show the verification page and nothing more. When an url is given the user will be redirect to that url after a payment has been completed or failed |
 
@@ -32,6 +34,7 @@ POST /api/create/
 {
   "token": "spJA4nChfSPDRSkD-Znb6iw-2WGkDR37GyxZ-GZomUo",
   "id": "PR-000012457",
+  "title": "Invoice #15123-14",
   "amount": "12,25",
   "type": "direct",
   "response": "https://payrequest.io/responsehandler"
@@ -44,6 +47,7 @@ The response will be as shown:
 
 ```javascript
 {
+  "status": "success",
   "url": "https://link.payrequest.io/630ep3t"
 }
 ```
