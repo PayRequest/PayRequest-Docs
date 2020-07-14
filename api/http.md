@@ -4,7 +4,7 @@ description: Simple HTTP api
 
 # HTTP Requests
 
-### This API is not live yet! Want to stay up-to-date? Let us know info\[at\]payrequest.io
+### The API is in BETA, did you encounter any issues! Let us know info\[at\]payrequest.io
 
 ## Gettings started
 
@@ -55,6 +55,34 @@ The response will be as shown:
 ### Return response
 
 After the payment has been successfull or failed the url will return the user to the response url when given. The return will have `response` attached which will consist of a `MD5` encryption of `status`+`id`. This can be in our above request `successPR-000012457` or `failedPR-000012457`. To perform an extra check we attached `return_id` which will consist of the `token` + `id` encrypted with `MD5`.
+
+### Possible Errors
+
+Sometimes you can forget some information. We tried our best to make this as easy as possible for you.
+An error response will be like this:
+
+```javascript
+{
+  "status": "error,
+  "error": "notoken"
+}
+```
+
+Possible error codes:
+
+| error | Description |
+| :--- | :--- |
+| `notoken` | The token is not provided |
+| `noid` | No unique id is given |
+| `novalidtoken` | No valid token is given |
+| `nosuchlink` | When retrieving payment, unique id is not found |
+| `notitle` | No payment title is given |
+| `noamount` | No amount is given |
+| `notvalidamount` | No valid amount is given |
+| `nointegration` | No integration is setup, or not finished onboarding with your connected PSP |
+| `pspnotsupported` | Connected PSP is not supported yet in our API |
+| `unknown` | Unknown error has been generated. Please check `realerror` output to check why |
+
 
 ## Retrieve payment
 
