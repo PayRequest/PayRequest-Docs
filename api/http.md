@@ -63,7 +63,7 @@ An error response will be like this:
 
 ```javascript
 {
-  "status": "error,
+  "status": "error",
   "error": "notoken"
 }
 ```
