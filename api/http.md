@@ -54,7 +54,7 @@ The response will be as shown:
 
 ### Return response
 
-After the payment has been successfull or failed the url will return the user to the response url when given. The return will be `GET 200` for a succesfull payment and `GET 500` for an unsuccessfull payment. For extra check we also attach a `return_id` which will consist of the `token` + `id` encrypted with `MD5`.
+After the payment has been successfull or failed the url will return the user to the response url when given. The return will have `response` attached which will consist of a `MD5` encryption of `status`+`id`. This can be in our above request `successPR-000012457` or `failedPR-000012457`. To perform an extra check we attached `return_id` which will consist of the `token` + `id` encrypted with `MD5`.
 
 ## Retrieve payment
 
