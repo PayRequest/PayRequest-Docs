@@ -9,6 +9,7 @@ description: Simple HTTP api
 ## Gettings started
 
 Because of certain security measurements we will always expect a token. This token can be found in your dashboard settings. For this example we'll use a fake token.
+Our base url is always link.payrequest.io. So for example `link.payrequest.io/api/create/`.
 
 ## Create a payment request
 
