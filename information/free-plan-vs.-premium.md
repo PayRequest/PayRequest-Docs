@@ -14,7 +14,7 @@ We keep things simple, no hidden costs, long contracts, or difficult plans:
 
 | Payment Provider fee | PayRequest application fee |
 | :--- | :--- |
-| Depending on what payment method | 2% per succesfull transaction |
+| Depending on what payment method | 1% per succesfull transaction |
 
 #### Payment Provider Fee
 
