@@ -4,7 +4,7 @@
 
 ## Getting Started 🚀
 
-* [Create your acocunt](getting-started/create-your-acocunt.md)
+* [Create your account](getting-started/create-your-account.md)
 * [Connect your Payment Provider](getting-started/connect-your-payment-provider.md)
 * [Create your first payment request](getting-started/create-a-payment-request.md)
 * [Create Dynamic Payment Links](getting-started/create-dynamic-payment-links.md)
