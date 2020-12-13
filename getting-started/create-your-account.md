@@ -2,7 +2,7 @@
 description: It is simple to create an account
 ---
 
-# Create your acocunt
+# Create your account
 
 ## 💻 Setup your PayRequest Account <a id="setup-the-way-to-login-in-gitbook"></a>
 
