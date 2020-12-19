@@ -9,6 +9,10 @@
 * [Create your first payment request](getting-started/create-a-payment-request.md)
 * [Create Dynamic Payment Links](getting-started/create-dynamic-payment-links.md)
 
+## Features ✨
+
+* [Web Push Notifications 🔔](features/web-push-notifications.md)
+
 ## API
 
 * [HTTP Requests](api/http.md)

@@ -10,5 +10,3 @@ Just go to [https://dashboard.payrequest.io/](https://dashboard.payrequest.io/) 
 
 ![Signup for a PayRequest account](../.gitbook/assets/schermafbeelding-2020-04-11-om-10.49.50.png)
 
-
-

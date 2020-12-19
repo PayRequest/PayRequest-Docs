@@ -8,8 +8,7 @@ description: Simple HTTP api
 
 ## Gettings started
 
-Because of certain security measurements we will always expect a token. This token can be found in your dashboard settings. For this example we'll use a fake token.
-Our base url is always link.payrequest.io. So for example `link.payrequest.io/api/create/`.
+Because of certain security measurements we will always expect a token. This token can be found in your dashboard settings. For this example we'll use a fake token. Our base url is always link.payrequest.io. So for example `link.payrequest.io/api/create/`.
 
 ## Create a payment request
 
@@ -59,8 +58,7 @@ After the payment has been successfull or failed the url will return the user to
 
 ### Possible Errors
 
-Sometimes you can forget some information. We tried our best to make this as easy as possible for you.
-An error response will be like this:
+Sometimes you can forget some information. We tried our best to make this as easy as possible for you. An error response will be like this:
 
 ```javascript
 {
@@ -83,7 +81,6 @@ Possible error codes:
 | `nointegration` | No integration is setup, or not finished onboarding with your connected PSP |
 | `pspnotsupported` | Connected PSP is not supported yet in our API |
 | `unknown` | Unknown error has been generated. Please check `realerror` output to check why |
-
 
 ## Retrieve payment
 

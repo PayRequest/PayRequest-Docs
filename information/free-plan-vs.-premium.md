@@ -7,7 +7,7 @@ description: Simple clear pricing
 On We do not have any monthly fees, you only pay for succesfull payments.
 
 {% hint style="info" %}
- PayRequest is free to use, you only pay per succesfull transaction.
+PayRequest is free to use, you only pay per succesfull transaction.
 {% endhint %}
 
 We keep things simple, no hidden costs, long contracts, or difficult plans:
@@ -16,13 +16,11 @@ We keep things simple, no hidden costs, long contracts, or difficult plans:
 | :--- | :--- |
 | Depending on what payment method | 1% per succesfull transaction |
 
-#### Payment Provider Fee
+## Payment Provider Fee
 
-This is the fee and costs your are pay directly to your payment provider \(PSP\) 
+This is the fee and costs your are pay directly to your payment provider \(PSP\)
 
-#### PayRequest application Fee
+## PayRequest application Fee
 
 This is the fee PayRequest collect to keep our platform running and to cover our costs.
-
-
 
