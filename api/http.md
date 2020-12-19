@@ -1,10 +1,8 @@
 ---
-description: Simple HTTP api
+description: Simple HTTP api (HTTP Requests)
 ---
 
-# HTTP Requests
-
-### The API is in BETA, did you encounter any issues! Let us know info\[at\]payrequest.io
+# PayRequest API
 
 ## Gettings started
 

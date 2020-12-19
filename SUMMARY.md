@@ -15,7 +15,7 @@
 
 ## API
 
-* [HTTP Requests](api/http.md)
+* [PayRequest API](api/http.md)
 
 ## ℹ️Information
 
@@ -23,4 +23,8 @@
 * [PayRequest Pricing](information/free-plan-vs.-premium.md)
 * [What countries does PayRequest Support?](information/what-countries-does-payrequest-support.md)
 * [How can i contact PayRequest?](information/how-can-i-contact-payrequest.md)
+
+## Account 👤
+
+* [Password Reset](account/password-reset.md)
 
