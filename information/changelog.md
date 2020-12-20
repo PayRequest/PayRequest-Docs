@@ -4,6 +4,33 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 
 # Changelog
 
+## 2.0 - 2020-12-28 \(coming soon\)
+
+### Fixed
+
+* Improved dynamic payment links
+* Security enhancements
+
+### Changed
+
+* We accept now even more currencies!
+* We Launched our new website [payrequest.io](https://payrequest.io)
+* Our PayRequest is out of BETA and now generaly available
+* A cleaner payrequest badge on payment pages & payment links
+
+### Added
+
+* Web Push Notifications
+* MultiSafePay \(Payment Provider\)
+
+### In Progress
+
+* Select what payments methods to be active
+* VISA/Mastercard icons instead of creditcard icon.
+* Multi-currency for new payment requests
+
+
+
 ## 1.3.5 - 2020-06-27
 
 ### Fixed
