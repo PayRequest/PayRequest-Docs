@@ -16,6 +16,7 @@
 ## API
 
 * [PayRequest API](api/http.md)
+* [Webhooks](api/webhooks.md)
 
 ## ℹ️Information
 

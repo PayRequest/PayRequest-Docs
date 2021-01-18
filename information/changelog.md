@@ -17,6 +17,7 @@ description: "Be sure to not miss out on new features and improvements! \U0001F6
 * We Launched our new website [payrequest.io](https://payrequest.io)
 * Our PayRequest is out of BETA and now generaly available
 * A cleaner payrequest badge on payment pages & payment links
+* Better Mollie \(Payment Provider\)
 
 ### Added
 
