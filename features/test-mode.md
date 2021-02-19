@@ -8,13 +8,23 @@ description: With Test mode you can test your payment links before going live
 Test Mode \(currently\) only works with Payment Provider: Stripe,  for more information about Stripe Testing:  [https://stripe.com/docs/testing](https://stripe.com/docs/testing)
 {% endhint %}
 
-## Start using Test Mode
+## 1. Enable Test Mode
 
  You can simply enable test mode via our dashboard:
 
-![Click on test mode](../.gitbook/assets/ezgif-4-b1159fcdcfab.gif)
+![Click on test mode \(to activate it\)](../.gitbook/assets/ezgif-4-b1159fcdcfab.gif)
+
+## 2. Create a new payment link
 
 Now just create a payment link, and it will be automatically a test-mode payment link.
+
+![Just create a new payment link as usual](../.gitbook/assets/schermafbeelding-2021-02-19-om-09.02.46.png)
+
+## 3. Make a payment with Test Mode
+
+After you created a payment link, you will see on the payment link that test mode is active:
+
+![Payment Link with test mode enabled](../.gitbook/assets/schermafbeelding-2021-02-18-om-08.22.43.png)
 
 ### Credit Cards to make test payments
 
@@ -42,11 +52,7 @@ Below you see a full list of all credit card you can use for testing purposes, f
 | 3566002020360505 | JCB | Any 3 digits | Any future date |
 | 6200000000000005 | UnionPay | Any 3 digits | Any future date |
 
-## How to use Test Mode
-
-After you created a payment link, you will see on the payment link that test mode is active:
-
-![Payment Link with test mode enabled](../.gitbook/assets/schermafbeelding-2021-02-18-om-08.22.43.png)
+## 
 
 Now you can insert a credit card, or use any other payment method, if you use for example iDeal you will be redirected to Stripe landing page where you can authorize the test payment or even let it will.
 
@@ -54,9 +60,11 @@ Now you can insert a credit card, or use any other payment method, if you use fo
 
 After clicking 'Authorize Test Payment' you will be automatically redirected to payment link, and you will that it is paid.
 
+## 4. Your test-mode payment link is paid.
+
 ![Payment link with test mode after payment](../.gitbook/assets/schermafbeelding-2021-02-19-om-07.30.42%20%281%29.png)
 
-### Disable Test Mode
+## 5. Disable Test Mode
 
 When you are done with testing, please disable test mode.
 
