@@ -5,7 +5,7 @@ description: With Test mode you can test your payment links before going live
 # Test Mode
 
 {% hint style="info" %}
-Test Mode \(currently\) only works with Payment Provider: Stripe
+Test Mode \(currently\) only works with Payment Provider: Stripe,  for more information about Stripe Testing:  [https://stripe.com/docs/testing](https://stripe.com/docs/testing)
 {% endhint %}
 
 ## Start using Test Mode
@@ -14,13 +14,15 @@ Test Mode \(currently\) only works with Payment Provider: Stripe
 
 ![Click on test mode](../.gitbook/assets/ezgif-4-b1159fcdcfab.gif)
 
-Now just 
+Now just create a payment link, and it will be automatically a test-mode payment link.
 
-### Credit Cards to make test payments:
+### Credit Cards to make test payments
+
+Below you see a full list of all credit card you can use for testing purposes, for other payment methods like iDeal you don't have to fill in anything.
 
 * No authentication \(default U.S. card\): `4242 4242 4242 4242`.
 * Authentication required: `4000 0027 6000 3184`.
-* 
+
 **Full list of Credit Cards for testing purposes**
 
 | NUMBER | BRAND | CVC | DATE |
@@ -40,13 +42,25 @@ Now just
 | 3566002020360505 | JCB | Any 3 digits | Any future date |
 | 6200000000000005 | UnionPay | Any 3 digits | Any future date |
 
-## Getting Super Powers
+## How to use Test Mode
 
-Becoming a super hero is a fairly straight forward process:ower
+After you created a payment link, you will see on the payment link that test mode is active:
 
-{% hint style="info" %}
+![Payment Link with test mode enabled](../.gitbook/assets/schermafbeelding-2021-02-18-om-08.22.43.png)
 
-{% endhint %}
+Now you can insert a credit card, or use any other payment method, if you use for example iDeal you will be redirected to Stripe landing page where you can authorize the test payment or even let it will.
+
+![Stripe Landing Page](../.gitbook/assets/schermafbeelding-2021-02-19-om-07.29.53%20%281%29.png)
+
+After clicking 'Authorize Test Payment' you will be automatically redirected to payment link, and you will that it is paid.
+
+![Payment link with test mode after payment](../.gitbook/assets/schermafbeelding-2021-02-19-om-07.30.42%20%281%29.png)
+
+### Disable Test Mode
+
+When you are done with testing, please disable test mode.
+
+Contact the PayRequest Team if you need any help.
 
 
 
