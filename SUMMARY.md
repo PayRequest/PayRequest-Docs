@@ -12,6 +12,7 @@
 ## Features ✨
 
 * [Web Push Notifications 🔔](features/web-push-notifications.md)
+* [Test Mode](features/test-mode.md)
 
 ## API
 
