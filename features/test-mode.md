@@ -12,11 +12,9 @@ Test Mode \(currently\) only works with Payment Provider: Stripe
 
  You can simply enable test mode via our dashboard:
 
-![](../.gitbook/assets/schermopname-2021-02-19-om-07.54.56.mov)
+![Click on test mode](../.gitbook/assets/ezgif-4-b1159fcdcfab.gif)
 
- mode only works with Stripe
-
-
+Now just 
 
 ### Credit Cards to make test payments:
 
