@@ -2,7 +2,7 @@
 description: Create dynamic payment links with our own personal payment page
 ---
 
-# Create Dynamic Payment Links
+# Dynamic Payment Links \(Cheatsheet\)
 
 ## What are Dynamic Payment Links?
 
@@ -12,10 +12,15 @@ Save time with creating payment links, just use dynamic links like: payrequest.m
 
 ### Examples Dynamic Payment Links
 
-* payrequest.me/name/$3,40
-* payrequest.me/name/3,40/invoice-3494
+| Link | Information |
+| :--- | :--- |
+| payrequest.me/name | This is your payment page, for example: payrequest.me/hostingwalk |
+| payrequest.me/name/5,50 | with an amount \(will use default currency\) |
+| payrequest.me/name/USD/5,50 | with an amount \(and USD currency\) can be changed to any currency like EURO or POUND. |
+| payrequest.me/name/5,50/invoice-3494 | with an amount & custom title, can be changed to whatever. |
+| payrequest.me/name/EUR/5,40/invoice-534/customer@mail.com | with an amount & custom title & currency EURO & e-mail of a customer. |
 
-Change name with your own username.wer
+
 
 {% hint style="info" %}
  You can claim your own username in Dashboard -&gt; Settings -&gt; Personal Page
