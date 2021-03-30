@@ -17,13 +17,33 @@ Save time with creating payment links, just use dynamic links like: payrequest.m
 | payrequest.me/name | This is your payment page, for example: payrequest.me/hostingwalk |
 | payrequest.me/name/5,50 | with an amount \(will use default currency\) |
 | payrequest.me/name/USD/5,50 | with an amount \(and USD currency\) can be changed to any currency like EURO or POUND. |
-| payrequest.me/name/5,50/invoice-3494 | with an amount & custom title, can be changed to whatever. |
-| payrequest.me/name/EUR/5,40/invoice-534/customer@mail.com | with an amount & custom title & currency EURO & e-mail of a customer. |
+| payrequest.me/name/creditcard/USD/5,99 | with payment method Credit Card & currency USD & amount of 5,99 |
+| payrequest.me/name/5,50/invoice-3494 | with an amount & custom note, can be changed to whatever. |
+| payrequest.me/name/EUR/5,40/invoice-534/customer@mail.com | with an amount & custom note & currency EURO & e-mail of a customer. |
+
+Feel free to change any amount, note, currency and payment method to want you want.
+
+
+
+**You can use the following payment methods:**
+
+* /creditcard
+* /ideal  
+* /mistercash
+* /bancontact
+* /eps
+* /giropay
+* /p24
+* /sofort
+
+
+
+
 
 
 
 {% hint style="info" %}
- You can claim your own username in Dashboard -&gt; Settings -&gt; Personal Page
+ You can claim your own username in Dashboard -&gt; Payment Page
 {% endhint %}
 
 
