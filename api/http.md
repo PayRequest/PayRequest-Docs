@@ -19,7 +19,7 @@ POST /api/create/
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | `token` | `required` | The token you can find in your dashboard settings |
-| `id` | `required` | An unique id which you can use to verify the payment |
+| `id` | `optional` | An unique id which you can use to verify the payment |
 | `title` | `required` | Payment title that the customer sees |
 | `amount` | `required` | The amount you want to charge the customer |
 | `description` | `optional` | Payment description |
