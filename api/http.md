@@ -22,6 +22,8 @@ POST /api/create/
 | `id` | `optional` | An unique id which you can use to verify the payment |
 | `title` | `required` | Payment title that the customer sees |
 | `amount` | `required` | The amount you want to charge the customer |
+| `name` | `optional` | Name of the person that gets the payment link |
+| `email` | `optional` | Email of the person that gets the payment link |
 | `description` | `optional` | Payment description |
 | `type` | `optional` | When not given, the url will return a payment link. When the value is `direct` the user can \(and should\) be redirected to the specific url. If omitted or `link` is given the url will respond with a generated payment link |
 | `response` | `optional` | When not given, the payment will just show the verification page and nothing more. When an url is given the user will be redirect to that url after a payment has been completed or failed |
