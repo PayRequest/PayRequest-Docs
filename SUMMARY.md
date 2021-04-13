@@ -18,6 +18,7 @@
 
 * [PayRequest API](api/http.md)
 * [Webhooks](api/webhooks.md)
+* [Zapier](api/zapier.md)
 
 ## ℹ️Information
 
