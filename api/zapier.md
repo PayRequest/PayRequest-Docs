@@ -18,7 +18,7 @@ description: Zapier integration for PayRequest (currently in Beta)
 
 ## Configuration
 
-You can now use our in app \(in beta\) via:  [https://zapier.com/developer/public-invite/99772/0784634a06645ad2514c3b2e3c43066d/](https://zapier.com/developer/public-invite/99772/0784634a06645ad2514c3b2e3c43066d/)
+You can now use our in app \(in beta\) via:  [https://zapier.com/apps/payrequest/integrations](https://zapier.com/apps/payrequest/integrations)
 
 Please send feedback and issues to:  info@payrequest.io
 
