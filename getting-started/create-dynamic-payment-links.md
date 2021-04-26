@@ -15,31 +15,29 @@ Save time with creating payment links, just use dynamic links like: payrequest.m
 | Link | Information |
 | :--- | :--- |
 | payrequest.me/name | This is your payment page, for example: payrequest.me/hostingwalk |
-| payrequest.me/name/5,50 | with an amount \(will use default currency\) |
-| payrequest.me/name/USD/5,50 | with an amount \(and USD currency\) can be changed to any currency like EURO or POUND. |
-| payrequest.me/name/creditcard/USD/5,99 | with payment method Credit Card & currency USD & amount of 5,99 |
-| payrequest.me/name/5,50/invoice-3494 | with an amount & custom note, can be changed to whatever. |
-| payrequest.me/name/EUR/5,40/invoice-534/customer@mail.com | with an amount & custom note & currency EURO & e-mail of a customer. |
+| payrequest.me/name/5,50 | Amount \(will use default currency\) |
+| payrequest.me/name/USD/5,50 | Amount \(and USD currency\) can be changed to any currency like EUR(euro) or PND(Pound). |
+| payrequest.me/pay/name/creditcard/5,99 | Payment method Credit Card & amount of 5,99 ( don't miss the pay thats in front! ) |
+| payrequest.me/name/5,50/invoice-3494 | Amount & custom note |
+| payrequest.me/name/USD/5,50/invoice-3494 | Amount, currency & custom note. |
+| payrequest.me/name/5,40/invoice-534/customer@mail.com | Amount, custom note & e-mail of a customer. |
+| payrequest.me/name/USD/5,40/invoice-534/customer@mail.com | Amount, custom note, currency & e-mail of a customer. |
+| payrequest.me/name/5,40/invoice-534/john/customer@mail.com | Amount, custom note, name & e-mail of a customer. |
+| payrequest.me/name/USD/5,40/invoice-534/john/customer@mail.com | Amount, custom note, currency, name & e-mail of a customer. |
 
-Feel free to change any amount, note, currency and payment method to want you want.
-
-
+Do you miss any usefull combinations or have a question about them?
+Don't hesitate to contact us!
 
 **You can use the following payment methods:**
 
 * /creditcard
 * /ideal  
-* /mistercash
-* /bancontact
-* /eps
-* /giropay
-* /p24
-* /sofort
-
-
-
-
-
+* /mistercash (not yet supported as fast-link)
+* /bancontact (not yet supported as fast-link)
+* /eps (not yet supported as fast-link)
+* /giropay (not yet supported as fast-link)
+* /p24 (not yet supported as fast-link)
+* /sofort (not yet supported as fast-link)
 
 
 {% hint style="info" %}
