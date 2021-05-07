@@ -62,7 +62,7 @@ After clicking 'Authorize Test Payment' you will be automatically redirected to 
 
 ## 4. Your test-mode payment link is paid.
 
-![Payment link with test mode after payment](../.gitbook/assets/schermafbeelding-2021-02-19-om-07.30.42%20%281%29%20%281%29.png)
+![Payment link with test mode after payment](../.gitbook/assets/schermafbeelding-2021-02-19-om-07.30.42%20%281%29%20%281%29%20%281%29.png)
 
 ## 5. Disable Test Mode
 
